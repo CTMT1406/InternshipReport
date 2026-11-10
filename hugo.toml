@@ -1,0 +1,27 @@
+baseURL = "https://ctmt1406.github.io/InternshipReport/"
+title = "Internship Report"
+canonifyURLs = true
+theme = "hugo-theme-learn"
+defaultContentLanguage = "en"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]   # JSON để ô tìm kiếm hoạt động
+
+[params]
+  themeVariant = "blue"          # "blue" | "green" | "red"
+  author = "Chau Tran Manh Tien"
+  editURL = "https://github.com/CTMT1406/InternshipReport/edit/main/content/"
+  showVisitedLinks = true
+  disableNextPrev = false
+
+[languages.en]
+  title = "Internship Report"
+  weight = 1
+  languageName = "English"
+[languages.vi]
+  title = "Báo cáo thực tập"
+  weight = 2
+  languageName = "Tiếng Việt"
+
+[markup.goldmark.renderer]
+  unsafe = true                  # cho phép chèn HTML trong markdown
