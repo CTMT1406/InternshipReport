@@ -9,26 +9,26 @@ chapter: false
 
 ### Student Information
 
-&emsp; **Full name:** [Your full name]
+&emsp; **Full name:** Chau Tran Manh Tien
 
-&emsp; **Phone number:** [...]
+&emsp; **Phone number:** 0866629079
 
-&emsp; **Email:** [...]
+&emsp; **Email:** chautranmanhtien@gmail.com
 
 &emsp; **University:** FPT University, Ho Chi Minh City
 
-&emsp; **Major:** [...]
+&emsp; **Major:** Artificial Intelligence
 
-&emsp; **Class:** [...]
+&emsp; **Class:** 
 
-&emsp; **Internship company:** Amazon Web Services Vietnam Co., Ltd.
+&emsp; **Internship company:** Amazon Web Services Vietnam Company Limited
 
-&emsp; **Internship position:** [...]
+&emsp; **Internship position:** Workforce Bootcamp - First Cloud AI Journey
 
 &emsp; **Internship period:** From [dd/mm/yyyy] to [dd/mm/yyyy]
 
 <!-- Put your photo at static/images/avatar.png, then remove the comment marks below -->
-<!-- ![Profile picture](/images/avatar.png) -->
+![Profile picture](/images/avatar.png)
 
 ### Report Contents
 
